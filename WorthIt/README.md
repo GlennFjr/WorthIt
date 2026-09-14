@@ -2,8 +2,6 @@
 
 WorthIt is a Retail World of Warcraft Auction House analytics addon built around price tracking favorite items.
 
-## Version 2.1.0
-
 WorthIt tracks only items you favorite in World of Warcraft's Auction House. There is no separate watch list, item-ID workflow, or background scanner.
 
 ### Market view
