@@ -1,0 +1,17 @@
+## Interface: 120100
+## Title: WorthIt
+## Notes: Auction House intelligence for your Blizzard favorites.
+## Author: Your Name
+## Version: 2.1.0
+## SavedVariables: WorthItDB
+## X-Category: Auction House
+## X-License: MIT
+
+Core\Namespace.lua
+Core\Util.lua
+Data\Database.lua
+Analytics\PriceEngine.lua
+AH\AuctionHouse.lua
+UI\Dashboard.lua
+Core\Commands.lua
+Core\Bootstrap.lua
